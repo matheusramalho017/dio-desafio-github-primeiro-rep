@@ -1,0 +1,3 @@
+Link para download do Git: https://gitforwindows.org
+
+- GIT Bash: terminal extendido para otimizar o uso do GitHub.
